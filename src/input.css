@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Dongle-Bold";
+  src: url("../public/fonts/Dongle-Bold.ttf");
+}
+@font-face {
+  font-family: "Dongle-Light";
+  src: url("../public/fonts/Dongle-Light.ttf");
+}
+
+@font-face {
+  font-family: "Dongle-Regular";
+  src: url("../public/fonts/Dongle-Regular.ttf");
+}
